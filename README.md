@@ -1,6 +1,6 @@
 # Summary of the Solution
 
-## Several task that need to be done are :
+## Several step that performed in this task are :
 
 ### 1. Table Format Initialization
 #### Since each json file has different keys, it is important to create base table that can contain all keys each json file has. accounts_frm, cards_frm, and savings_accounts_frm are created to collect JSON data that has been converted into Dataframe.
