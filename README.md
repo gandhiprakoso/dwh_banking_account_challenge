@@ -18,3 +18,7 @@
 ######  a. 4 from sa1, occured in January 2 (increased by 15000), 10 (increased by 25000, decreased by 19000) , and 20 (increased by 12000)
 ######  b. 3 from c1, occured in January 6 (increased by 12000), 8 (increased by 7000), and 10 (decreased by 19000)
 ######  c. 1 from c2, occured in January 18 (increased by 37000)
+
+
+#### Due to technical issue and error, the Docker file is not ready at the time, hence there is no Docker file pushed at this repository.
+#### The result can still be seen from .ipynb file and can be run using google colab. (When using google colab, please do make sure to also upload JSON file in "data" folder)
