@@ -22,4 +22,4 @@
 
 ### Notes
 #### Due to technical issue and error, the Docker file is not ready at the time, hence there is no Docker file pushed at this repository.
-#### The result can still be seen from .ipynb file and can be run using google colab. (When using google colab, please do make sure to also upload JSON file in "data" folder)
+#### The data conversion result can still be seen from .ipynb file and can be run using google colab. (When using google colab, please do make sure to also upload JSON file in "data" folder)
